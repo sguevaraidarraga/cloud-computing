@@ -1,0 +1,7 @@
+saludar(){
+
+echo "Hola"
+
+}
+
+saludar

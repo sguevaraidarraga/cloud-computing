@@ -1,0 +1,4 @@
+INFORME DE HALLAZGOS
+Procesos con alto consumo: /usr/bin/gnome-shell (PID 3262, CPU 6.4%)
+Errores HTTP 500: 2
+Servicios afectados: auth (1),api (1)

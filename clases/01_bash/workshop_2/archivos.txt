@@ -1,0 +1,3 @@
+archivos.txt
+estudiantes.txt
+/home/sguevaraidarraga/Documents/cloud-computing/01_bash/workshop_2

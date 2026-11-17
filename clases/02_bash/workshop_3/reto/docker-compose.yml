@@ -1,0 +1,12 @@
+services:
+  web:
+    build: ./web
+    ports:
+      - "8080:80"
+    volumes:
+      - ./logs:/var/log/nginx
+  lab:
+    build: ./lab
+    volumes:
+      - ./scripts:/app/scripts
+      - ./logs:/app/logs
